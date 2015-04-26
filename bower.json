@@ -11,7 +11,7 @@
     "js",
     "tmp",
     "bower.json",
-    "Gruntfile.js",
+    "gulpfile.js",
     "package.json"
   ],
   "dependencies": {
