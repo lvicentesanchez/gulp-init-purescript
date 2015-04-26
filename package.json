@@ -1,0 +1,14 @@
+{
+  "name": "gulp-init-purescript",
+  "version": "0.1.0",
+  "description": "Simple purescript project (based on grunt-init purescript).",
+  "author": "Luis Angel Vicente Sanchez",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "gulp": "^3.8.6",
+    "gulp-purescript": "^0.1.2",
+    "gulp-run": "^1.6.4",
+    "run-sequence": "^0.3.6"
+  }
+}
